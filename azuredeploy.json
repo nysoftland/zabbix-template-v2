@@ -62,7 +62,7 @@
     "mysqlServerType": {
       "type": "string",
       "metadata": {
-        "description": "MySql Server type. 'Paas'for using mysql database on China Azure(This option is a paid service, please refer to https://www.azure.cn/pricing/details/mysql/for price list.),'Localhost' for creating a new MySQL instance on the monitor VM, 'existing' for using an existing host."
+        "description": "MySql Server type. 'Paas'for using mysql database on China Azure(This option is a paid service, please refer to https://www.azure.cn/pricing/details/mysql/for list price.),'Localhost' for creating a new MySQL instance on the monitor VM, 'existing' for using an existing host."
       },
       "allowedValues": [
         "Existing", "Localhost", "Paas"
