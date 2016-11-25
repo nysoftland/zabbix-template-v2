@@ -1,3 +1,6 @@
+使用 Azure 资源管理器自动部署 Zabbix 监控服务：
+https://www.azure.cn/documentation/articles/open-source-azure-resource-manager-zabbix
+
 Monitoring experimental deployment.
 
 Supported Distros: 
