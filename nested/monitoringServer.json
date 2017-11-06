@@ -32,7 +32,7 @@
       "metadata": {
         "description": "Size for the monitor VM."
       },
-      "defaultValue": "Standard_A2"
+      "defaultValue": "Standard_A4"
     },
     "vmImageReference": {
       "type": "object",
