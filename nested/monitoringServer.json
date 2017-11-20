@@ -33,7 +33,7 @@
         "description": "Size for the monitor VM."
       },
       "defaultValue": "Standard_A4"
-      "allowedValues":[
+      "allowedValues": [
         "Standard_A4"
         "Standard_A5"
         "Standard_A6"
